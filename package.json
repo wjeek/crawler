@@ -1,0 +1,20 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "crawler for geek articles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "wjeek",
+  "license": "ISC",
+  "dependencies": {
+    "qs": "^6.5.2",
+    "readline": "^1.3.0",
+    "request": "^2.88.0",
+    "superagent": "^4.0.0-beta.5"
+  }
+}
